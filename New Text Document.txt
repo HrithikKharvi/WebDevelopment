@@ -1,1 +1,1 @@
-ge
+This repository includes all Javascript project on different concepts
